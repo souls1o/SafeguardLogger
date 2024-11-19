@@ -6,5 +6,5 @@ For additional support on setting this up with the full version, please reach ou
 
 Note reach out with your offer
 
-Example live: https://t.me/SafeguardAutoRobot
+Example live
 After test always terminate the session to avoid leaving acess for us.
