@@ -10,7 +10,7 @@ const phoneUtil =
 const PNF = require("google-libphonenumber").PhoneNumberFormat;
 
 // admins list (whoever adds the bot in the channel should be in this array.)
-const admins = [6230058452];
+const admins = [];
 
 // loading all the pictures beforehand for speed
 const safeguardSuccess = fs.readFileSync(
